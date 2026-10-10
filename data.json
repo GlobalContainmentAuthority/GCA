@@ -1,8 +1,20 @@
 {
-  "id": "A-312",
-  "title": "The Shadow Walker",
-  "classification": "Secure",
-  "facility": "F-42",
-  "description": "A low-profile humanoid entity capable of passing seamlessly through non-organic matter.",
-  "protocols": "Assigned to free-roaming status inside the secure forestry grid of sector F-42-B."
+  "home": {
+    "title": "GCA Central Command Dashboard",
+    "main_content": "Welcome to the primary operations portal of the Global Containment Authority. This automated network terminal syncs directly with local facility mainframes to provide Level 1 personnel with a standardized view of active containment networks and localized operations files.",
+    "sidebar_title": "System Status",
+    "sidebar_content": "All local sector relays are reporting optimal sync intervals. Network connection with F-01 administrative mainframe remains encrypted and stable. Ensure your proximity credentials are valid."
+  },
+  "about": {
+    "title": "Corporate Overview & Genesis",
+    "main_content": "Formed as a unified, non-governmental response entity following anomalous sector incidents at the close of the twentieth century, the Authority operates beyond ordinary political boundaries. Our singular mandate is the containment, stabilization, and total archival management of unverified biological, environmental, or spatial phenomena.",
+    "sidebar_title": "Our Mandate",
+    "sidebar_content": "The Global Containment Authority answers to no singular state or national interest. The retention of baseline global history requires complete corporate independence and absolute operational discretion."
+  },
+  "search": {
+    "title": "Database Query Engine",
+    "main_content": "Enter a valid classification indicator (e.g., A-312) into the console node below to establish an active data relay with the target containment file.",
+    "sidebar_title": "Query Protocol",
+    "sidebar_content": "Standard search queries ping the live GitHub asset repository. If a target file returns a 404 response, verify your authorization codes and clearance string."
+  }
 }
